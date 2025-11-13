@@ -185,29 +185,18 @@ Los países que promueven la equidad y el bienestar colectivo logran niveles de 
 - **Jupyter Notebook**
 
 ---
-## ## 👤 AUTHOR / AUTOR
+## 👤 About the Author / Sobre el Autor  
 
-**Cristian Salinas**  
-Data Analyst | Business Intelligence | Strategic Planning  
+**Cristian Salinas** — Industrial Engineer & Data Analyst  
 
-🌐 [www.IngSalinas.com](https://www.ingsalinas.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [GitHub](https://github.com/IngSalinas)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/ingcrissalinas/](https://www.linkedin.com/in/ingcrissalinas/)  
+🌐 **Portfolio:** [https://www.ingsalinas.com/](https://www.ingsalinas.com/)  
+📂 **GitHub:** [https://github.com/Crisfunky01](https://github.com/Crisfunky01)
 
----
 
-## ## 🚀 HOW TO RUN / CÓMO EJECUTAR
 
-```bash
-# Clone repository
-git clone https://github.com/IngSalinas/world-happiness-eda.git
-cd world-happiness-eda
 
-# Install dependencies
-pip install -r requirements.txt
 
-# Run notebook
-
-jupyter notebook World_Happiness_EDA.ipynb
 
 
 

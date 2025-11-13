@@ -1,13 +1,13 @@
 # 🌎 World Happiness Report – Exploratory Data Analysis (EDA)
 
 # 🌎 World Happiness Report – Exploratory Data Analysis (EDA)
-<!-- BADGES (compact style) -->
+<!-- BADGES -->
 ![Python](https://img.shields.io/badge/Python-3.10+-yellow)
 ![EDA](https://img.shields.io/badge/EDA-Analysis-blue)
-![Dataset](https://img.shields.io/badge/Data-World%20Happiness%20Report-orange)
+![Data](https://img.shields.io/badge/Data-World%20Happiness%20Report-orange)
 ![EN & ES](https://img.shields.io/badge/EN%20%26%20ES-Bilingual-brightgreen)
-![last commit](https://img.shields.io/github/last-commit/IngSalinas/world-happiness-eda?color=lightgrey)
-![repo size](https://img.shields.io/github/repo-size/IngSalinas/world-happiness-eda?color=blue)
+![last commit](https://img.shields.io/github/last-commit/Crisfunky01/world-happiness-eda?color=lightgrey)
+![repo size](https://img.shields.io/github/repo-size/Crisfunky01/world-happiness-eda?color=blue)
 
 ## 🧾 DESCRIPTION / DESCRIPCIÓN
 
@@ -209,6 +209,7 @@ pip install -r requirements.txt
 # Run notebook
 
 jupyter notebook World_Happiness_EDA.ipynb
+
 
 
 
